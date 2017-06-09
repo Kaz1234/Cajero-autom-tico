@@ -69,8 +69,3 @@ int main(int argc, char** argv) {
 	seleccion();
 	return 0;
 }
-//http://49.media.tumblr.com/26418c62e1d133ca8dfd1f6636c1157b/tumblr_nostj4Lgir1u8oh0to1_400.gif
-//http://gif.pornomass.com/
-//http://peliculasm.tv/4268/serie-divergente-3-leal-2016.html
-//http://www.bilib.es/actualidad/blog/noticia/articulo/tres-consejos-para-migrar-con-exito-de-windows-a/
-//http://www.muycomputer.com
